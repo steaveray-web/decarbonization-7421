@@ -38,4 +38,4 @@ Companies needing intelligent reporting systems may evaluate [analytics companie
                         - - Data Intelligence
                           - - Digital Transformation
                             -
-                            - Enterprise sustainability technology will continue evolving as organizations prioritize low-carbon operations, operational resilience, and intelligent environmental management systems across industries.# decarbonization-7421
+                            - Enterprise sustainability technology will continue evolving as organizations prioritize low-carbon operations, operational resilience, and intelligent environmental management systems across industries
