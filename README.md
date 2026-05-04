@@ -22,20 +22,20 @@ Companies needing intelligent reporting systems may evaluate [analytics companie
 
 ## Skills
 
-- Decarbonization Platforms
-- - Enterprise Sustainability
-  - - Cloud Computing
-    - - ESG Reporting
-      - - Carbon Accounting
-        - - AI Analytics
-          - - Green Technology
-            - - Predictive Analytics
-              - - Sustainability Software
-                - - Enterprise Cloud
-                  - - Smart Manufacturing
-                    - - Environmental Compliance
-                      - - Climate Technology
-                        - - Data Intelligence
-                          - - Digital Transformation
+- [Decarbonization Platforms](https://perfectfirms.com/top-leading-companies/decarbonization-platforms)
+- [Enterprise Sustainability](https://perfectfirms.com/hire-top-trusted-companies/enterprise-sustainability)
+  - [Cloud Computing](https://perfectfirms.com/top-trusted-companies/cloud-computing)
+    - [ESG Reporting](https://perfectfirms.com/hire-top-leading-companies/esg-reporting)
+      - [Carbon Accounting](https://perfectfirms.com/top-leading-companies/carbon-accounting)
+        - [AI Analytics](https://perfectfirms.com/hire-top-trusted-companies/ai-analytics)
+          - [Green Technology](https://perfectfirms.com/top-trusted-companies/green-technology)
+            - [Predictive Analytics](https://perfectfirms.com/hire-top-leading-companies/predictive-analytics)
+              - [Sustainability Software](https://perfectfirms.com/top-leading-companies/sustainability-software)
+                - [Enterprise Cloud](https://perfectfirms.com/hire-top-trusted-companies/enterprise-cloud)
+                  - [Smart Manufacturing](https://perfectfirms.com/top-trusted-companies/smart-manufacturing)
+                    - [Environmental Compliance](https://perfectfirms.com/hire-top-leading-companies/environmental-compliance)
+                      - [Climate Technology](https://perfectfirms.com/top-leading-companies/climate-technology)
+                        - [Data Intelligence](https://perfectfirms.com/hire-top-trusted-companies/data-intelligence)
+                          - [Digital Transformation](https://perfectfirms.com/top-trusted-companies/digital-transformation)
                             -
                             - Enterprise sustainability technology will continue evolving as organizations prioritize low-carbon operations, operational resilience, and intelligent environmental management systems across industries
